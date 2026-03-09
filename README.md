@@ -62,19 +62,12 @@ project-root
 Clone the repository
 
 ```
-git clone <[repository-url](https://github.com/sureshturaka28/task-manager.git)>
-cd task-manager
-```
-
----
+git clone <https://github.com/sureshturaka28/taskmangerbackend.git>
 
 # Backend Setup
 
-Navigate to backend folder
 
-```
-cd backend
-```
+
 
 Install dependencies
 
@@ -111,7 +104,10 @@ http://localhost:5000
 
 # Frontend Setup
 
-Open a new terminal and navigate to frontend folder
+Clone the repository
+
+```
+git clone <https://github.com/sureshturaka28/taskmangerfrontend.git>
 
 ```
 cd frontend
@@ -132,7 +128,7 @@ npm run dev
 Frontend will run on
 
 ```
-http://localhost:5173
+http://localhost:8080/
 ```
 
 ---
